@@ -1,8 +1,8 @@
 Package: RadioGx
 Type: Package
 Title: Analysis of Large-Scale Radio-Genomic Data
-Version: 2.3.1
-Date: 2023-03-02
+Version: 2.3.2
+Date: 2023-04-19
 Authors@R: c(
   person("Venkata","Manem", email = "mail2mvskumar@gmail.com",
     role = c("aut")),
@@ -16,6 +16,8 @@ Authors@R: c(
     role = c("aut")),
   person("Scott", "Bratman", email = "scott.bratman@rmp.uhn.ca",
     role = c("aut")),
+  person("Jermiah", "Joseph", email = "jermiah.joseph@uhn.ca",
+    role = c("aut")),  
   person("Benjamin","Haibe-Kains", email = "benjamin.haibe.kains@utoronto.ca",
     role = c("aut","cre"))
   )
